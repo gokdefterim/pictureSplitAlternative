@@ -53,7 +53,7 @@ document.getElementById('divButton').onclick=function(){
     else{
         divLeft.style.display = 'none';
         divRight.style.display = 'flex';    
-        divButton.innerHTML = '<h1>ASSEMBLE</h1>';
+        divButton.innerHTML = '<h1>COMBINE</h1>';
     }
 }
 
